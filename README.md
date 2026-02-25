@@ -1,10 +1,7 @@
-<div align="center" width="50">
+<div align="center">
 
-<!-- Hello Coders Banner -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
-<br><br>
+<br>
 
-<!-- CLEAR FEMALE CODER GIF -->
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="40%"/>
 <br><br>
 
