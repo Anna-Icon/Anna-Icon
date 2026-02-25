@@ -2,10 +2,10 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 
-<!-- Coding Girl -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
+<!-- Coding Girl GIF -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40%"/><br> 
 
-<h2>Hi 👋 I'm Anna_Icon</h2>
+<h2>أنا Anna_Icon 👩🏻‍💻</h2>
 <h4>🎓 Cyber Security Student | Passionate Learner 🔐</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anna_Icon&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -37,3 +37,38 @@ class AboutMe:
 
     def say_hi(self):
         return "Stay secure 🔐"
+```
+
+---
+
+- 👩🏻‍💻 I’m currently learning **Penetration Testing**.  
+- 🐧 I like exploring **GNU/Linux**.  
+- 💬 Ask me about **Cyber Security basics or Linux**.  
+- ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories**.  
+
+---
+
+<div align="center">
+<a href="https://github.com/Anna_Icon">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+
+<hr>
+
+### 🔁 Code Cycle
+
+😵‍💫 ➜ 😌 ➜ 😲  
+"Broken system!" ➜ "It's working!" ➜ "It's working but you don't know how!"
+
+</div>
