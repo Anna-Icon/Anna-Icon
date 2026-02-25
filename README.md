@@ -2,10 +2,10 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 
-<!-- Coding Girl GIF -->
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40%"/><br> 
+<!-- Female Coding GIF -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%"/><br> 
 
-<h2>أنا Anna_Icon 👩🏻‍💻</h2>
+<h2>Anna_Icon 👩🏻‍💻</h2>
 <h4>🎓 Cyber Security Student | Passionate Learner 🔐</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anna_Icon&style=flat&color=orange&label=PROFILE+VIEWS)
