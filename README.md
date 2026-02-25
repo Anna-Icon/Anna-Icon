@@ -1,37 +1,28 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 
-<!-- Custom Coding Girl Emoji -->
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40%"/>
-<br>
+<!-- Coding Girl -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
 
-<h1>Hi 👋 I'm Anna_Icon</h1>
-<h3>🎓 Cyber Security Student | Passionate Learner | Future Security Specialist</h3>
-
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) 
-
-</details>
+<h2>Hi 👋 I'm Anna_Icon</h2>
+<h4>🎓 Cyber Security Student | Passionate Learner 🔐</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anna_Icon&style=flat&color=orange&label=PROFILE+VIEWS)
-<br>
+
 </div>
 
 <hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%94%90%20Cyber%20Security%20Tools-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+## 💻 Programming Languages (Level: Medium)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=flat)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-black?style=flat)
+![Python](https://img.shields.io/badge/Python-Intermediate-FFD43B?style=flat&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermediate-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+---
 
 ```python
 # tools_I_use organized
@@ -41,9 +32,8 @@ class AboutMe:
     def __init__(self):
         self.name = "Anna_Icon"
         self.role = "Cyber Security Student"
-        self.interests = ["Cyber Security", "Ethical Hacking", "Networking", "Linux"]
-        self.currently_learning = ["Penetration Testing", "Digital Forensics"]
+        self.level = "Intermediate"
+        self.focus = ["Cyber Security", "Networking", "Linux"]
 
     def say_hi(self):
         return "Stay secure 🔐"
-
