@@ -1,9 +1,12 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<!-- Hello Coders Banner -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
+<br><br>
 
-<!-- Female Coding GIF -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%"/><br> 
+<!-- CLEAR FEMALE CODER GIF -->
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="40%"/>
+<br><br>
 
 <h2>Anna_Icon 👩🏻‍💻</h2>
 <h4>🎓 Cyber Security Student | Passionate Learner 🔐</h4>
@@ -25,8 +28,6 @@
 ---
 
 ```python
-# tools_I_use organized
-
 class AboutMe:
 
     def __init__(self):
